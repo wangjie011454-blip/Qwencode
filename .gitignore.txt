@@ -1,0 +1,4 @@
+# qwen-code-cli 配置
+.qwen/
+# GitHub App 凭据
+gha-creds-*.json

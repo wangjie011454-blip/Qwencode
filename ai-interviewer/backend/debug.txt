@@ -1,0 +1,18 @@
+Response type: <class 'generator'>
+=== Chunk 0 ===
+type: <class 'dashscope.api_entities.dashscope_response.GenerationResponse'>
+dict: {"status_code": 200, "request_id": "c4cbdd4d-76e8-4b6f-8b9f-7ec7a34b1a9e", "code": "", "message": "", "output": {"text": null, "finish_reason": null, "choices": [{"finish_reason": "null", "message": {"role": "assistant", "content": "你好"}}]}, "usage": {"input_tokens": 9, "output_tokens": 1, "total_tokens": 10, "prompt_tokens_details": {"cached_tokens": 0}}}
+==================
+=== Chunk 1 ===
+type: <class 'dashscope.api_entities.dashscope_response.GenerationResponse'>
+dict: {"status_code": 200, "request_id": "c4cbdd4d-76e8-4b6f-8b9f-7ec7a34b1a9e", "code": "", "message": "", "output": {"text": null, "finish_reason": null, "choices": [{"finish_reason": "null", "message": {"role": "assistant", "content": "你好！很高兴见到"}}]}, "usage": {"input_tokens": 9, "output_tokens": 4, "total_tokens": 13, "prompt_tokens_details": {"cached_tokens": 0}}}
+==================
+=== Chunk 2 ===
+type: <class 'dashscope.api_entities.dashscope_response.GenerationResponse'>
+dict: {"status_code": 200, "request_id": "c4cbdd4d-76e8-4b6f-8b9f-7ec7a34b1a9e", "code": "", "message": "", "output": {"text": null, "finish_reason": null, "choices": [{"finish_reason": "null", "message": {"role": "assistant", "content": "你好！很高兴见到你～😊"}}]}, "usage": {"input_tokens": 9, "output_tokens": 7, "total_tokens": 16, "prompt_tokens_details": {"cached_tokens": 0}}}
+==================
+=== Chunk 3 ===
+type: <class 'dashscope.api_entities.dashscope_response.GenerationResponse'>
+dict: {"status_code": 200, "request_id": "c4cbdd4d-76e8-4b6f-8b9f-7ec7a34b1a9e", "code": "", "message": "", "output": {"text": null, "finish_reason": null, "choices": [{"finish_reason": "null", "message": {"role": "assistant", "content": "你好！很高兴见到你～😊 "}}]}, "usage": {"input_tokens": 9, "output_tokens": 8, "total_tokens": 17, "prompt_tokens_details": {"cached_tokens": 0}}}
+==================
+DONE
